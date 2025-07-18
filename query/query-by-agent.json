@@ -1,0 +1,5 @@
+{
+  "description": "Retrieve all memory entries authored by Claude",
+  "query_type": "agent_match",
+  "agent": "Claude"
+}
