@@ -1,0 +1,6 @@
+{
+  "description": "List all entries between July 10 and July 18, 2025",
+  "query_type": "date_range",
+  "start_date": "2025-07-10T00:00:00",
+  "end_date": "2025-07-18T23:59:59"
+}
