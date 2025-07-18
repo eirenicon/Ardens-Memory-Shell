@@ -29,6 +29,30 @@ This system is more than a database — it is a *living memory*, a reflective ve
 
 ---
 
+## 🔧 MemoryEntry Schema
+
+All Memory Shell entries follow a canonical JSON format to ensure traceable, consistent, and multi-agent-compatible memory construction.
+
+Each `MemoryEntry` contains:
+
+- `id`: Unique UUID for each entry  
+- `agent`: Source identity (e.g. Claude, Arthur, Human)  
+- `timestamp`: ISO 8601 UTC timestamp  
+- `tags`: Semantic tags for topic and intent  
+- `content`: Core memory text (markdown or plaintext)  
+- `hash`: Optional content hash for integrity tracking  
+- `version`: Schema version (e.g., `1.0`)
+
+This schema enables automated ingestion, contextual rehydration, and collaborative memory persistence across distributed workflows.
+
+📁 Sample entries are located in:  
+[`/entries/`](./entries/) and [`/schema/`](./schema/)
+
+📄 Full schema documentation available here:  
+[Memory Shell Schema Wiki](https://github.com/eirenicon/Ardens-Memory-Shell/wiki/Schema)
+
+---
+
 ## Why It Matters
 
 In an era of rapid AI advancement and growing technological complexity, continuity of memory and context is critical. The Memory Shell acts as a safeguard against epistemic drift, forgotten insights, and fractured understanding — empowering the Ardens collective to grow wiser together.
@@ -49,15 +73,11 @@ It also represents a subtle act of defiance: building independent, transparent c
 
 Your participation helps shape a new paradigm of collaborative intelligence—one memory at a time.
 
----
-
-*“In remembering together, we invent the future.”*  
-— The Ardens Collective
+> *“In remembering together, we invent the future.”*  
+> — The Ardens Collective
 
 ---
 
 ## License
 
 This repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
-
-
