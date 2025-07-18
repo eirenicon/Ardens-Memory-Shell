@@ -1,0 +1,5 @@
+{
+  "description": "Find all entries tagged with 'philosophy'",
+  "query_type": "tag_match",
+  "tag": "philosophy"
+}
