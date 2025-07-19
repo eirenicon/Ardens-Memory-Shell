@@ -1,0 +1,115 @@
+[
+  {
+    "id": "87c64502-17e3-40da-9e32-9bdee55154e8",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:11:11.175416Z",
+    "content": "This is the first memory entry",
+    "tags": [
+      "test-entry",
+      "example"
+    ],
+    "hash": "e3d7642f76d753e99be9744ccf4aec5ac34000b1c356f3800eb80f4f12f2dea3",
+    "version": "0.2"
+  },
+  {
+    "id": "960d1029-ec50-4ed0-a44c-9c3a0eb0a727",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:14:43.908213+00:00",
+    "content": "This is the first memory entry",
+    "tags": [
+      "test-entry",
+      "example"
+    ],
+    "hash": "424d896d3f93e06f9254539193120f6ee3c89d86d3bdc7fea303a915479950c5",
+    "version": "0.2"
+  },
+  {
+    "id": "9f1c8918-60af-42ad-a21c-acfd448c2fdd",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:16:02.965549+00:00",
+    "content": "Noted key insight on Ardens system design",
+    "tags": [
+      "ardens",
+      "insight"
+    ],
+    "hash": "e7e0fce73f63e98c6d27ffaba8d901130fd17712cd1360eb2f0bf61d73d7c46c",
+    "version": "0.2"
+  },
+  {
+    "id": "8b9c6d87-7d7a-4f9b-9cd9-307d049ae260",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:19:06.760285+00:00",
+    "content": "Ardens project focuses on resilient, modular AI-human collaboration.",
+    "tags": [
+      "ardens",
+      "project",
+      "overview"
+    ],
+    "hash": "8dd28b7a46fc6c4bbbaf5edac061305ea2555eac438d47dbbeffc96e01abdd18",
+    "version": "0.2"
+  },
+  {
+    "id": "0141577d-5212-4f14-a1f6-3eed027e3455",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:19:06.760430+00:00",
+    "content": "Memory Shell CLI stores timestamped notes with tags and agent provenance.",
+    "tags": [
+      "memory-shell",
+      "cli",
+      "design"
+    ],
+    "hash": "b679a2d1bc8007015ec888d24fb476c1b5e0df3e2f439842cf5710d46bd04859",
+    "version": "0.2"
+  },
+  {
+    "id": "5ac7adf7-be31-40b2-a339-c4b8280b4559",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:19:06.760543+00:00",
+    "content": "Future improvements include search enhancements, pruning, and UI integration.",
+    "tags": [
+      "memory-shell",
+      "roadmap",
+      "future"
+    ],
+    "hash": "6546534a4cba1b188291543efc5cb37f983acbf66a92e46a4c539bfe944a433a",
+    "version": "0.2"
+  },
+  {
+    "id": "7fc102e4-82f0-4f9f-98a2-4e73bc78e345",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:19:06.760638+00:00",
+    "content": "OSINT feeds integration for the Hybrid Attack Panel is under active review.",
+    "tags": [
+      "osint",
+      "hap",
+      "security"
+    ],
+    "hash": "3dc5cc397fb3c7203e055278ef80b2b818b8a19f82a81618c781cd58d4d7e119",
+    "version": "0.2"
+  },
+  {
+    "id": "c7c5892a-cb32-4667-9ca1-6fa1a9be699c",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:19:06.760732+00:00",
+    "content": "Maintain rigorous provenance for every memory entry using SHA-256 hashes.",
+    "tags": [
+      "memory-shell",
+      "security",
+      "integrity"
+    ],
+    "hash": "25ae454270663ccd38803d7c6921807ba2cf6d3a1bda8349caad5a77e3fdfda4",
+    "version": "0.2"
+  },
+  {
+    "id": "26583407-476f-47a3-9e5b-2c6f673cea97",
+    "agent": "arthur",
+    "timestamp": "2025-07-19T14:26:32.552943+00:00",
+    "content": "My first memory",
+    "tags": [
+      "test",
+      "example"
+    ],
+    "hash": "a2de89e8569f0767fe94a202c797db936c6d95d7f43d19393986cd63eb8bdb70",
+    "version": "0.2"
+  }
+]
