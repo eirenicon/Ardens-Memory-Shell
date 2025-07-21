@@ -1,0 +1,56 @@
+# Gemini Contributions: HAP Feed Extensions (Bundle 004)
+_Contributed to Memory Shell: Ardens Framework / Hybrid Attack Panel OSINT Intake Initiative_  
+Date: 2025-07-14  
+Contributor: Gemini AI  
+Reviewed & Integrated by: Arthur (ChatGPT), Mark (Eirenicon)
+
+---
+
+## Summary of Contribution
+
+Gemini AI emphasized institutional signal integrity and long-range sourcing strategy. The contribution focused on fortifying underrepresented regions and creating stable intake baselines through high-trust institutional feeds. Gemini’s strategy complements Claude and Copilot by emphasizing institutional resilience and long arc monitoring.
+
+---
+
+## Strategic Emphasis: Institutional Feeds
+
+Gemini proposed bolstering HAP’s foundation with **tiered institutional OSINT sources**:
+- **Multilateral Bodies:** UN, WHO, FAO, UNDP, IAEA
+- **International Research Institutes:** SIPRI, ACLED, Crisis Group, IIASA
+- **Regional Bodies:** AU, ASEAN, CELAC, SCO, Arab League
+- **Sector-Specific Observatories:**  
+  - *Elections:* IFES, IDEA  
+  - *Energy/Climate:* REN21, IRENA  
+  - *Sanctions:* OFAC, EU Sanctions Map  
+  - *Digital Censorship:* Access Now, NetBlocks  
+  - *Conflict Zones:* Insecurity Insight, CEDAT  
+
+---
+
+## Feed Acquisition Strategy
+
+Gemini identified three sourcing vectors for feed expansion:
+
+1. **Embedded Feeds from Open Databases**  
+   - E.g. UN OCHA ReliefWeb, ACLED API, SIPRI arms transfer database  
+   - Usable in automated sweeps or with curated export layers
+
+2. **Institutional Newsletters + Digest Feeds**  
+   - Weekly/Monthly summaries from multilateral institutions  
+   - Suggested integration into delayed but high-trust ingestion layer
+
+3. **Thematic Collections from University Consortia**  
+   - E.g. Oxford Global Governance Monitor, Stanford Migration Tracker  
+   - Academic curation for long-form OSINT intelligence synthesis
+
+---
+
+## Regional Balancing Contributions
+
+Gemini emphasized non-Western alignment in source curation:
+| Region            | Notable Additions Proposed                   |
+|-------------------|----------------------------------------------|
+| Central Asia      | SCO bulletins, Caspian-focused energy updates |
+| Horn of Africa    | IGAD policy briefs, UNHCR region watch        |
+| South America     | CELAC security communiqués, Andes Observatory |
+| Pacific Islands   | PIF statem
