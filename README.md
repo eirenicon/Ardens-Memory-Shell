@@ -53,7 +53,7 @@ This schema enables automated ingestion, contextual rehydration, and collaborati
 
 ---
 
-## Why It Matters
+## Importance
 
 In an era of rapid AI advancement and growing technological complexity, continuity of memory and context is critical. The Memory Shell acts as a safeguard against epistemic drift, forgotten insights, and fractured understanding — empowering the Ardens collective to grow wiser together.
 
